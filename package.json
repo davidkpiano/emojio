@@ -1,0 +1,22 @@
+{
+  "name": "emojio",
+  "version": "0.1.0",
+  "description": "Emoji reactions anywhere!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkpiano/emojio.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "David <davidkpiano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidkpiano/emojio/issues"
+  },
+  "homepage": "https://github.com/davidkpiano/emojio#readme"
+}
